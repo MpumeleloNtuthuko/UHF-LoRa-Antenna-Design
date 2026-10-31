@@ -2,7 +2,7 @@
 
 [![University](https://img.shields.io/badge/University-Cape%20Town%20(UCT)-blue.svg)](http://www.uct.ac.za/)
 [![Department](https://img.shields.io/badge/Department-Electrical%20Engineering-orange.svg)](http://www.ee.uct.ac.za/)
-[![Course](https://img.shields.io/badge/Course-EEE4022F%2FS%20Final%20Year%20Project-green.svg)]()
+[![Course](https://img.shields.io/badge/Course-EEE4022S%20Final%20Year%20Project-green.svg)]()
 [![Status](https://img.shields.io/badge/Status-Completed-success.svg)]()
 
 > **Author:** Mpumelelo Ntuthuko Mpanza (`MPNMPU002`)
